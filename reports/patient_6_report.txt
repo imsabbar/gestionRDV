@@ -1,0 +1,38 @@
+=========================================
+            RAPPORT PATIENT              
+=========================================
+
+Date du rapport: 2025-05-13
+
+INFORMATIONS PATIENT:
+-----------------------------------------
+ID: 6
+Nom: Alaoui
+Prénom: Mohamed
+Date de naissance: 22/03/1978
+Téléphone: 0634567890
+Email: mohamed.alaoui@example.com
+Adresse: Fès
+
+ANTÉCÉDENTS MÉDICAUX:
+-----------------------------------------
+Asthme
+
+HISTORIQUE DES RENDEZ-VOUS:
+-----------------------------------------
+Date: 12/05/2025 14:30
+Médecin: Dr. Samira Ait Taleb (Dermatologue)
+Motif: 
+Notes: 
+Statut: SCHEDULED
+-----------------------------------------
+Date: 09/05/2025 10:00
+Médecin: Dr. Sophia Rdad (Médecin généraliste)
+Motif: Bilan de santé
+Notes: 
+Statut: SCHEDULED
+-----------------------------------------
+
+=========================================
+Fin du rapport - Généré automatiquement  
+=========================================

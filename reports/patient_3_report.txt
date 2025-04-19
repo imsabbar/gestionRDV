@@ -1,0 +1,62 @@
+=========================================
+            RAPPORT PATIENT              
+=========================================
+
+Date du rapport: 2025-05-04
+
+INFORMATIONS PATIENT:
+-----------------------------------------
+ID: 3
+Nom: Bernard
+Prénom: Pierre
+Date de naissance: 28/02/1990
+Téléphone: 0654321789
+Email: pierre.bernard@email.com
+Adresse: 789 Boulevard Saint-Michel, Marseille
+
+ANTÉCÉDENTS MÉDICAUX:
+-----------------------------------------
+Aucun
+
+HISTORIQUE DES RENDEZ-VOUS:
+-----------------------------------------
+Date: 15/05/2025 14:00
+Médecin: Dr. Julie Petit (Pédiatre)
+Motif: Consultation pédiatrique
+Notes: Vaccins à jour
+Statut: SCHEDULED
+-----------------------------------------
+Date: 03/05/2025 09:00
+Médecin: Dr. Sophie Lefebvre (Médecin généraliste)
+Motif: consultaion
+Notes: 
+Statut: SCHEDULED
+-----------------------------------------
+Date: 01/05/2025 09:00
+Médecin: Dr. Sophie Lefebvre (Médecin généraliste)
+Motif: 
+Notes: 
+Statut: SCHEDULED
+-----------------------------------------
+Date: 01/05/2025 09:00
+Médecin: Dr. Sophie Lefebvre (Médecin généraliste)
+Motif: 
+Notes: 
+Statut: SCHEDULED
+-----------------------------------------
+Date: 01/05/2025 09:00
+Médecin: Dr. Sophie Lefebvre (Médecin généraliste)
+Motif: consultation
+Notes: 
+Statut: SCHEDULED
+-----------------------------------------
+Date: 01/05/2025 09:00
+Médecin: Dr. Sophie Lefebvre (Médecin généraliste)
+Motif: 
+Notes: 
+Statut: SCHEDULED
+-----------------------------------------
+
+=========================================
+Fin du rapport - Généré automatiquement  
+=========================================

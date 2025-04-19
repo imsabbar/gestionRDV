@@ -1,0 +1,26 @@
+=========================================
+            RAPPORT PATIENT              
+=========================================
+
+Date du rapport: 2025-05-29
+
+INFORMATIONS PATIENT:
+-----------------------------------------
+ID: 1
+Nom: Dalil
+Prénom: Hossam
+Date de naissance: 15/05/1980
+Téléphone: 0123456789
+Adresse: 123 Rue de Paris, ElJadida
+
+ANTÉCÉDENTS MÉDICAUX:
+-----------------------------------------
+Allergie au pollen
+
+HISTORIQUE DES RENDEZ-VOUS:
+-----------------------------------------
+Aucun rendez-vous enregistré pour ce patient.
+
+=========================================
+Fin du rapport - Généré automatiquement  
+=========================================
