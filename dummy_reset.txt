@@ -3,3 +3,4 @@ Ligne 2 - Ajout des boutons d'action dans le tableau
 Ligne 3 - Ajout du diagramme des rendez-vous par médecin
 Ligne 4 - Connexion à la base de données MySQL
 Ligne 5 - Ajout de la fonctionnalité d'ajout de patient
+Ligne 6 - Correction du bug d'affichage dans le tableau de rendez-vous
