@@ -7,3 +7,4 @@ Ligne 6 - Correction du bug d'affichage dans le tableau de rendez-vous
 Ligne 7 - Connexion à la base de données MySQL
 Ligne 8 - Intégration de JFreeChart pour les graphiques
 Ligne 9 - Ajout du module de statistiques mensuelles
+Ligne 10 - Amélioration de l'affichage des statistiques
