@@ -10,3 +10,4 @@ Ligne 9 - Ajout du module de statistiques mensuelles
 Ligne 10 - Amélioration de l'affichage des statistiques
 Ligne 11 - Mise en forme de l’interface avec GridBagLayout
 Ligne 12 - Ajout du tri dynamique des rendez-vous
+Ligne 13 - Ajout du tri dynamique des rendez-vous
