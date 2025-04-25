@@ -13,3 +13,4 @@ Ligne 12 - Ajout du tri dynamique des rendez-vous
 Ligne 13 - Ajout du tri dynamique des rendez-vous
 Ligne 14 - Amélioration de l'affichage des statistiques
 Ligne 15 - Ajout de la fonctionnalité d'ajout de patient
+Ligne 16 - Correction du bug de double insertion
