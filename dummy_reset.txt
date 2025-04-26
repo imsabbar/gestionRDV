@@ -18,3 +18,4 @@ Ligne 17 - Correction du bug de double insertion
 Ligne 18 - Refonte du Dashboard en panels Swing
 Ligne 19 - Refactorisation du contrôleur de patients
 Ligne 20 - Ajout du module de statistiques mensuelles
+Ligne 21 - Intégration de JFreeChart pour les graphiques
