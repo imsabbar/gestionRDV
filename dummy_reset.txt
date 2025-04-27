@@ -20,3 +20,4 @@ Ligne 19 - Refactorisation du contrôleur de patients
 Ligne 20 - Ajout du module de statistiques mensuelles
 Ligne 21 - Intégration de JFreeChart pour les graphiques
 Ligne 22 - Ajout du module de statistiques mensuelles
+Ligne 23 - Ajout du graphique de répartition des spécialités
