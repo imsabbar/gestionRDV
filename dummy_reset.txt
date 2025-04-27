@@ -21,3 +21,4 @@ Ligne 20 - Ajout du module de statistiques mensuelles
 Ligne 21 - Intégration de JFreeChart pour les graphiques
 Ligne 22 - Ajout du module de statistiques mensuelles
 Ligne 23 - Ajout du graphique de répartition des spécialités
+Ligne 24 - Mise en forme de l’interface avec GridBagLayout
