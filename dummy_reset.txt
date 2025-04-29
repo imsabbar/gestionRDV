@@ -25,3 +25,4 @@ Ligne 24 - Mise en forme de l’interface avec GridBagLayout
 Ligne 25 - Ajout du diagramme des rendez-vous par médecin
 Ligne 26 - Ajout du module de statistiques mensuelles
 Ligne 27 - Intégration de JFreeChart pour les graphiques
+Ligne 28 - Ajout des boutons d'action dans le tableau
