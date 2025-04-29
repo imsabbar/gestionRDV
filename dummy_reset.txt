@@ -27,3 +27,4 @@ Ligne 26 - Ajout du module de statistiques mensuelles
 Ligne 27 - Intégration de JFreeChart pour les graphiques
 Ligne 28 - Ajout des boutons d'action dans le tableau
 Ligne 29 - Ajout de l’exportation CSV pour les rendez-vous
+Ligne 30 - Correction du bug d'affichage dans le tableau de rendez-vous
