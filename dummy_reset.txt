@@ -29,3 +29,4 @@ Ligne 28 - Ajout des boutons d'action dans le tableau
 Ligne 29 - Ajout de l’exportation CSV pour les rendez-vous
 Ligne 30 - Correction du bug d'affichage dans le tableau de rendez-vous
 Ligne 31 - Mise à jour de l’interface Swing des médecins
+Ligne 32 - Refactorisation du contrôleur de patients
