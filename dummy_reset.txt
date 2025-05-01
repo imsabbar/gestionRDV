@@ -33,3 +33,4 @@ Ligne 32 - Refactorisation du contrôleur de patients
 Ligne 33 - Correction du bug d'affichage dans le tableau de rendez-vous
 Ligne 34 - Refactorisation du contrôleur de patients
 Ligne 35 - Implémentation de la suppression de rendez-vous
+Ligne 36 - Ajout du module de statistiques mensuelles
