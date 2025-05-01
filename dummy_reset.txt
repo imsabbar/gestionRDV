@@ -32,3 +32,4 @@ Ligne 31 - Mise à jour de l’interface Swing des médecins
 Ligne 32 - Refactorisation du contrôleur de patients
 Ligne 33 - Correction du bug d'affichage dans le tableau de rendez-vous
 Ligne 34 - Refactorisation du contrôleur de patients
+Ligne 35 - Implémentation de la suppression de rendez-vous
