@@ -36,3 +36,4 @@ Ligne 35 - Implémentation de la suppression de rendez-vous
 Ligne 36 - Ajout du module de statistiques mensuelles
 Ligne 37 - Ajout du tri dynamique des rendez-vous
 Ligne 38 - Correction du bug de double insertion
+Ligne 39 - Ajout des boutons d'action dans le tableau
