@@ -38,3 +38,4 @@ Ligne 37 - Ajout du tri dynamique des rendez-vous
 Ligne 38 - Correction du bug de double insertion
 Ligne 39 - Ajout des boutons d'action dans le tableau
 Ligne 40 - Mise en forme de l’interface avec GridBagLayout
+Ligne 41 - Ajout de la validation des champs du formulaire
