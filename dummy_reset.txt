@@ -41,3 +41,4 @@ Ligne 40 - Mise en forme de l’interface avec GridBagLayout
 Ligne 41 - Ajout de la validation des champs du formulaire
 Ligne 42 - Amélioration de l'affichage des statistiques
 Ligne 43 - Refactorisation du contrôleur de patients
+Ligne 44 - Ajout de l’exportation CSV pour les rendez-vous
