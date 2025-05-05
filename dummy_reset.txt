@@ -43,3 +43,4 @@ Ligne 42 - Amélioration de l'affichage des statistiques
 Ligne 43 - Refactorisation du contrôleur de patients
 Ligne 44 - Ajout de l’exportation CSV pour les rendez-vous
 Ligne 45 - Mise en forme de l’interface avec GridBagLayout
+Ligne 46 - Ajout du graphique de répartition des spécialités
