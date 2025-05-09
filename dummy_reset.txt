@@ -57,3 +57,4 @@ Ligne 56 - Création de l’interface de gestion des utilisateurs
 Ligne 57 - Mise à jour de l’interface Swing des médecins
 Ligne 58 - Ajout du module de statistiques mensuelles
 Ligne 59 - Implémentation de la suppression de rendez-vous
+Ligne 60 - Amélioration de l'affichage des statistiques
