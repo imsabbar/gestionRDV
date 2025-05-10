@@ -59,3 +59,4 @@ Ligne 58 - Ajout du module de statistiques mensuelles
 Ligne 59 - Implémentation de la suppression de rendez-vous
 Ligne 60 - Amélioration de l'affichage des statistiques
 Ligne 61 - Mise à jour de l’interface Swing des médecins
+Ligne 62 - Ajout du tri dynamique des rendez-vous
