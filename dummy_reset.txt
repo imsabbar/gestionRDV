@@ -63,3 +63,4 @@ Ligne 62 - Ajout du tri dynamique des rendez-vous
 Ligne 63 - Refonte du Dashboard en panels Swing
 Ligne 64 - Refonte du Dashboard en panels Swing
 Ligne 65 - Ajout du tri dynamique des rendez-vous
+Ligne 66 - Intégration de JFreeChart pour les graphiques
