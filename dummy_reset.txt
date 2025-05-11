@@ -61,3 +61,4 @@ Ligne 60 - Amélioration de l'affichage des statistiques
 Ligne 61 - Mise à jour de l’interface Swing des médecins
 Ligne 62 - Ajout du tri dynamique des rendez-vous
 Ligne 63 - Refonte du Dashboard en panels Swing
+Ligne 64 - Refonte du Dashboard en panels Swing
