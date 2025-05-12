@@ -66,3 +66,4 @@ Ligne 65 - Ajout du tri dynamique des rendez-vous
 Ligne 66 - Intégration de JFreeChart pour les graphiques
 Ligne 67 - Implémentation de la suppression de rendez-vous
 Ligne 68 - Ajout du tri dynamique des rendez-vous
+Ligne 69 - Création de l’interface de gestion des utilisateurs
