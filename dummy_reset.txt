@@ -69,3 +69,4 @@ Ligne 68 - Ajout du tri dynamique des rendez-vous
 Ligne 69 - Création de l’interface de gestion des utilisateurs
 Ligne 70 - Mise à jour de l’interface Swing des médecins
 Ligne 71 - Ajout de l’exportation CSV pour les rendez-vous
+Ligne 72 - Mise en forme de l’interface avec GridBagLayout
