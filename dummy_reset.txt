@@ -72,3 +72,4 @@ Ligne 71 - Ajout de l’exportation CSV pour les rendez-vous
 Ligne 72 - Mise en forme de l’interface avec GridBagLayout
 Ligne 73 - Ajout de la validation des champs du formulaire
 Ligne 74 - Ajout du graphique de répartition des spécialités
+Ligne 75 - Refactorisation du contrôleur de patients
