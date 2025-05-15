@@ -75,3 +75,4 @@ Ligne 74 - Ajout du graphique de répartition des spécialités
 Ligne 75 - Refactorisation du contrôleur de patients
 Ligne 76 - Refonte du Dashboard en panels Swing
 Ligne 77 - Connexion à la base de données MySQL
+Ligne 78 - Mise à jour de l’interface Swing des médecins
