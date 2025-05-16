@@ -78,3 +78,4 @@ Ligne 77 - Connexion à la base de données MySQL
 Ligne 78 - Mise à jour de l’interface Swing des médecins
 Ligne 79 - Amélioration de l'affichage des statistiques
 Ligne 80 - Connexion à la base de données MySQL
+Ligne 81 - Correction du bug de double insertion
