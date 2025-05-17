@@ -80,3 +80,4 @@ Ligne 79 - Amélioration de l'affichage des statistiques
 Ligne 80 - Connexion à la base de données MySQL
 Ligne 81 - Correction du bug de double insertion
 Ligne 82 - Intégration de JFreeChart pour les graphiques
+Ligne 83 - Ajout de la recherche par nom de patient
