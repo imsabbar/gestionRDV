@@ -82,3 +82,4 @@ Ligne 81 - Correction du bug de double insertion
 Ligne 82 - Intégration de JFreeChart pour les graphiques
 Ligne 83 - Ajout de la recherche par nom de patient
 Ligne 84 - Ajout de la fonctionnalité d'ajout de patient
+Ligne 85 - Ajout de la fonctionnalité d'ajout de patient
