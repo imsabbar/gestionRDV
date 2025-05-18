@@ -84,3 +84,4 @@ Ligne 83 - Ajout de la recherche par nom de patient
 Ligne 84 - Ajout de la fonctionnalité d'ajout de patient
 Ligne 85 - Ajout de la fonctionnalité d'ajout de patient
 Ligne 86 - Correction du bug d'affichage dans le tableau de rendez-vous
+Ligne 87 - Correction du bug de double insertion
