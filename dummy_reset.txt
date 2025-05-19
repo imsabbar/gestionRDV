@@ -86,3 +86,4 @@ Ligne 85 - Ajout de la fonctionnalité d'ajout de patient
 Ligne 86 - Correction du bug d'affichage dans le tableau de rendez-vous
 Ligne 87 - Correction du bug de double insertion
 Ligne 88 - Mise en forme de l’interface avec GridBagLayout
+Ligne 89 - Amélioration de l'affichage des statistiques
