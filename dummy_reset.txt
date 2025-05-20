@@ -90,3 +90,4 @@ Ligne 89 - Amélioration de l'affichage des statistiques
 Ligne 90 - Ajout de la validation des champs du formulaire
 Ligne 91 - Implémentation de la suppression de rendez-vous
 Ligne 92 - Implémentation de la suppression de rendez-vous
+Ligne 93 - Ajout de la recherche par nom de patient
