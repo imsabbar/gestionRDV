@@ -96,3 +96,4 @@ Ligne 95 - Ajout de la recherche par nom de patient
 Ligne 96 - Ajout de la fonctionnalité d'ajout de patient
 Ligne 97 - Ajout du tri dynamique des rendez-vous
 Ligne 98 - Ajout de la validation des champs du formulaire
+Ligne 99 - Ajout du diagramme des rendez-vous par médecin
