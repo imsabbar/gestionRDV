@@ -94,3 +94,4 @@ Ligne 93 - Ajout de la recherche par nom de patient
 Ligne 94 - Refonte du Dashboard en panels Swing
 Ligne 95 - Ajout de la recherche par nom de patient
 Ligne 96 - Ajout de la fonctionnalité d'ajout de patient
+Ligne 97 - Ajout du tri dynamique des rendez-vous
