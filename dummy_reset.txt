@@ -98,3 +98,4 @@ Ligne 97 - Ajout du tri dynamique des rendez-vous
 Ligne 98 - Ajout de la validation des champs du formulaire
 Ligne 99 - Ajout du diagramme des rendez-vous par médecin
 Ligne 100 - Ajout du graphique de répartition des spécialités
+Ligne 101 - Ajout de la validation des champs du formulaire
