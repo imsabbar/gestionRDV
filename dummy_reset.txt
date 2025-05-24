@@ -101,3 +101,4 @@ Ligne 100 - Ajout du graphique de répartition des spécialités
 Ligne 101 - Ajout de la validation des champs du formulaire
 Ligne 102 - Création de l’interface de gestion des utilisateurs
 Ligne 103 - Création de l’interface de gestion des utilisateurs
+Ligne 104 - Ajout de la validation des champs du formulaire
