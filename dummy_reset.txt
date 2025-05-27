@@ -109,3 +109,4 @@ Ligne 108 - Ajout de la recherche par nom de patient
 Ligne 109 - Ajout des boutons d'action dans le tableau
 Ligne 110 - Ajout de la fonctionnalité d'ajout de patient
 Ligne 111 - Ajout du diagramme des rendez-vous par médecin
+Ligne 112 - Ajout du graphique de répartition des spécialités
